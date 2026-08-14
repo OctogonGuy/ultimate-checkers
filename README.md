@@ -1,4 +1,4 @@
-# Checkers
+# Ultimate Checkers
 
 <div align="center">
   <img alt="Checkers Board" src="docs/checkers_screen.png" width="200px">
