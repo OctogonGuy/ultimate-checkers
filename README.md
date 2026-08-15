@@ -60,3 +60,5 @@ In the directory of the repository, run the following command to play checkers:
 ```
 ./mvnw javafx:run
 ```
+
+Alternatively, if you are on Windows, run `mvnw.cmd`
